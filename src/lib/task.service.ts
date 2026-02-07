@@ -1,5 +1,6 @@
+import type { Task } from "../interfaces/task.interface";
 import axiosCliente  from "./axiosCliente";
-import type { Task } from "../interfaces";
+
 
 
 export const TaskService = {
